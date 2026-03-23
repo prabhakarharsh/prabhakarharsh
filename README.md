@@ -2,7 +2,9 @@
 
 
 I'm Harsh Prabhakar , a computer science student based in India.
+
 I try to design and build my imagined ideas. 
+
 If i didn't find the thing , i'll try to build it .
 
 My main techarsenal is C,C++,PYTHON. 
