@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**prabhakarharsh/prabhakarharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Harsh Prabhakar , a computer science student based in India.
+I try to design and build my imagined ideas. 
+If i didn't find the thing , i'll try to build it .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main techarsenal is C,C++,PYTHON. 
+Tools which I love to use are Antigarvity, Claude.
+
+Facts about me:
+  :O= I love photography.
+  :O= Playing games and Sketching are me time.
+  
