@@ -9,7 +9,7 @@ I try to design and build my imagined ideas.
 If i didn't find the thing , i'll try to build it .
 
 
-My main techarsenal is C,C++,PYTHON. 
+My main techarsenal is C,C++,PYTHON..
 
 Tools which I love to use are Antigarvity, Claude.
 
