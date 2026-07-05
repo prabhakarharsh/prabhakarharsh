@@ -47,20 +47,26 @@
   <img src="https://skillicons.dev/icons?i=github,unreal,vscode" height="55"/>
  
 </div>
+</br>
+
 
 ---
+
 
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=prabhakarharsh&count_private=true&bg_color=0d1117&title_color=91b2c7&text_color=91b2c7&icon_color=91b2c7&hide_border=true />
-  <img width="41%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=prabhakarharsh&layout=compact&card_width=320&bg_color=0d1117&title_color=91b2c7&text_color=91b2c7&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=prabhakarharsh&count_private=true&bg_color=0d1117&title_color=91b2c7&text_color=91b2c7&icon_color=91b2c7&hide_border=true" />
+<img width="41%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=prabhakarharsh&layout=compact&card_width=320&bg_color=0d1117&title_color=91b2c7&text_color=91b2c7&hide_border=true" />
+ <img
+    src="https://streak-stats.demolab.com?user=prabhakarharsh&theme=transparent&background=00000000&ring=91b2c7&fire=91b2c7&currStreakLabel=91b2c7&sideLabels=91b2c7&dates=91b2c7&currStreakNum=91b2c7&sideNums=91b2c7&stroke=91b2c7&hide_border=true"
+    alt="GitHub Streak"
+    width="60%"
+  />
 
-
-![](https://streak-stats.demolab.com?user=prabhakarharsh&theme=transparent&background=00000000&ring=91b2c7&fire=91b2c7&currStreakLabel=91b2c7&sideLabels=91b2c7&dates=91b2c7&currStreakNum=91b2c7&sideNums=91b2c7&stroke=91b2c7&border=91b2c7)
 
 </div>
-
+</br>
 
 
 ---
