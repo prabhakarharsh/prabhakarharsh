@@ -8,11 +8,21 @@
 </div>
 <br/>
 
+<div align="center">
 
+🚀 Computer Science student passionate about building modern web applications, solving real-world problems, and game development.
 
+<br/><br/>
 
- "🚀 Computer Science student passionate about building modern web applications , solving real-world problems and game devlopment.<br><br>💻 Currently exploring Frontend Development, AI-powered workflows, and Backend fundamentals.<br>⚡ I enjoy turning ideas into projects, experimenting with new technologies, and learning by shipping.<br>🌱 Always building. Always improving.<br><br>> "Code. Learn. Build. Repeat."
-</br>
+💻 Currently exploring Frontend Development, AI-powered workflows, and Backend fundamentals.  
+⚡ I enjoy turning ideas into projects, experimenting with new technologies, and learning by shipping.  
+🌱 Always building. Always improving.
+
+<br/>
+
+<i>"Code. Learn. Build. Repeat."</i>
+
+</div>
 
 ---
 
@@ -72,21 +82,23 @@
 
 # 🌱Growth Tracker
 
-<img witdh ="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarharsh&theme=github_dark"/>
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarharsh&theme=github_dark" />
+</div>
+
 
 ---
 
-##                                                  <div align="center">💪Let's build something amazing together!
 
+<h2 align="center">💪 Let's build something amazing together!</h2>
 
-</div>  
+<div align="center">
+I'm always open to collaborating on projects, discussing ideas, or just having a good conversation about tech.
+<br/>
+Whether you're a fellow learner, a builder, or someone with an interesting problem to solve, feel free to reach out.
+</div>
 
 </br>
-                               
-<div align="center">I'm always open to collaborating on projects, discussing ideas, or just having a good conversation about tech.
-                                       Whether you're a fellow learner, a builder, or someone with an interesting problem to solve — feel free to reach out.</div> 
-
-   </br>   
    
 <div align="center">
 
