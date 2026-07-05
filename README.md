@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=91b2c7&center=true&vCenter=true&width=780&lines=FlappyBird:+Real-Time+GamePlay%7C+Built+From+Scratch+%E2%9A%A1;Pomodoro:+Productivity%7C+Live+%26+Used+Daily+%F0%9F%9A%80;BangoCat:+Something+Funny%7C+Live+Vercel;BudgetSathi+Phase+One+%7C+Money+manegement+tool;Vektra:+An+Idea+%7C+360Vision+For+BikeRiders%F0%9F%94%A5;Second+Year+CSE+%40+JECRC%2C+Jaipur+%C2%B7)](https://github.com/prabhakarharsh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=91b2c7&center=true&vCenter=true&width=780&lines=FlappyBird:+Real-Time+GamePlay+%7C+Built+From+Scratch+%E2%9A%A1;Pomodoro:+Productivity+%7C+Live+%26+Used+Daily+%F0%9F%9A%80;BangoCat:+Something+Funny+%7C+Live+Vercel;BudgetSathi+Phase+One+%7C+Money+manegement+tool;Vektra:+An+Idea+%7C+360Vision+For+BikeRiders%F0%9F%94%A5;Second+Year+CSE+%40+JECRC%2C+Jaipur+%C2%B7)](https://github.com/prabhakarharsh)
 </div>
 <br/>
 
