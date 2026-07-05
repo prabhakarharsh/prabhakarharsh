@@ -118,8 +118,16 @@ quote:
 <br/>
 
 ---
-
 # 🌱Growth Tracker
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarharsh&theme=github_dark" alt="Profile Details" />
+</div>
+
+
+
+
+# 🌱Growth Trackerssd
 
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarharsh&theme=github_dark" />
