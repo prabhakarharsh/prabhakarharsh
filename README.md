@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=91b2c7&center=true&vCenter=true&width=780&lines=FlappyBird:+Real-Time+GamePlay+%7C+Built+From+Scratch+%E2%9A%A1;Pomodoro:+Productivity+%7C+Live+%26+Used+Daily+%F0%9F%9A%80;BangoCat:+Something+Funny+%7C+Live+Vercel;BudgetSathi+Phase+One+%7C+Money+manegement+tool;Vektra:+An+Idea+%7C+360Vision+For+BikeRiders%F0%9F%94%A5;Second+Year+CSE+%40+JECRC%2C+Jaipur+%C2%B7)](https://github.com/prabhakarharsh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=91b2c7&center=true&vCenter=true&width=780&lines=FlappyBird:+Real-Time+GamePlay+%7C+Built+From+Scratch+%E2%9A%A1;Pomodoro:+Productivity+%7C+Live+%26+Used+Daily+%F0%9F%9A%80;BangoCat:+Something+Funny+%7C+Live+Vercel;BudgetSathi+Phase+One+%7C+Money+manegement+tool;Vektra:+An+Idea+%7C+360Vision+For+BikeRiders%F0%9F%94%A5;Second+Year+CSE+%40+JECRC%2C+Jaipur)](https://github.com/prabhakarharsh)
 </div>
 <br/>
 
@@ -75,21 +75,29 @@
 
 </div>  
 
+</br>
                                
 <div align="center">I'm always open to collaborating on projects, discussing ideas, or just having a good conversation about tech.
                                        Whether you're a fellow learner, a builder, or someone with an interesting problem to solve — feel free to reach out.</div> 
-                                       
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-prabhakar-6169b6379/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BHqf%2FQuenRiWsUPkH7hZm2w%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-  <a href="mailto:prabhakarharsh2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
+   </br>   
+   
+<div align="center">
 
-  <a href="https://github.com/prabhakarharsh">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/harsh-prabhakar-6169b6379">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="https://github.com/prabhakarharsh">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;
+<a href="mailto:prabhakarharsh2007@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;
+<a href="">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
+</div>
