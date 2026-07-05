@@ -36,13 +36,26 @@
 
 ---
 
-##                                                                 <div align="center">💪Let's build something amazing together!
-</div> 
-                                  <div align="center">I'm always open to collaborating on projects, discussing ideas, or just having a good conversation about tech.
+##                                                  <div align="center">💪Let's build something amazing together!
+
+
+</div>  
+
+                               
+<div align="center">I'm always open to collaborating on projects, discussing ideas, or just having a good conversation about tech.
                                        Whether you're a fellow learner, a builder, or someone with an interesting problem to solve — feel free to reach out.</div> 
                                        
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-prabhakar-6169b6379/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BHqf%2FQuenRiWsUPkH7hZm2w%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-prabhakar-6169b6379/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BHqf%2FQuenRiWsUPkH7hZm2w%3D%3D)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhakarharsh2007@gmail.com) 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhakarharsh)
+  <a href="mailto:prabhakarharsh2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/prabhakarharsh">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
