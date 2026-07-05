@@ -26,6 +26,45 @@
 
 ---
 
+# 💭 Behind the Code
+
+
+```yaml
+developer : Harsh Prabhakar
+
+role      : Computer Science Student
+location  : Jaipur, India
+
+interests:
+  - Modern Web Development
+  - AI-powered Applications
+  - Game Development
+  - Open Source
+
+tech:
+  frontend : HTML • CSS • JavaScript • React • TypeScript
+  backend  : Node.js • Express • Supabase
+  tools    : Git • GitHub • VS Code • Vercel • Railway
+
+building:
+  - 🚀 Vektra
+  - 💰 BudgetSaathi
+  - 🎮 Flappy Bird
+  - 🌐 Personal Portfolio
+
+currently:
+  - Learning Backend Architecture
+  - Building Full Stack Projects
+  - Preparing for Hackathons
+
+quote:
+  "Code. Learn. Build. Repeat."
+```
+
+
+
+---
+
 # ⚔️Arsenal:
 <div align="center">
  
@@ -85,7 +124,6 @@
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarharsh&theme=github_dark" />
 </div>
-
 
 ---
 
