@@ -13,6 +13,7 @@
 
  "🚀 Computer Science student passionate about building modern web applications , solving real-world problems and game devlopment.<br><br>💻 Currently exploring Frontend Development, AI-powered workflows, and Backend fundamentals.<br>⚡ I enjoy turning ideas into projects, experimenting with new technologies, and learning by shipping.<br>🌱 Always building. Always improving.<br><br>> "Code. Learn. Build. Repeat."
 </br>
+
 ---
 
 # ⚔️Arsenal:
@@ -67,6 +68,11 @@
 </div>
 </br>
 
+---
+
+# 🌱Growth Tracker
+
+<img witdh ="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarharsh&theme=github_dark"/>
 
 ---
 
