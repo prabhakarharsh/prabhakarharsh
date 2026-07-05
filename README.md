@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=github,unreal,vscode" height="55"/>
  
 </div>
-</br>
+<br/>
 
 
 ---
@@ -76,7 +76,7 @@
 
 
 </div>
-</br>
+<br/>
 
 ---
 
@@ -98,7 +98,7 @@ I'm always open to collaborating on projects, discussing ideas, or just having a
 Whether you're a fellow learner, a builder, or someone with an interesting problem to solve, feel free to reach out.
 </div>
 
-</br>
+<br/>
    
 <div align="center">
 
@@ -114,7 +114,7 @@ Whether you're a fellow learner, a builder, or someone with an interesting probl
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 &nbsp;
-<a href="">
+<a href="https://www.instagram.com/harsh_nintindo/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
