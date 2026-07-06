@@ -111,8 +111,11 @@ quote:
 <div align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=prabhakarharsh&count_private=true&bg_color=0d1117&title_color=91b2c7&text_color=91b2c7&icon_color=91b2c7&hide_border=true" />
 <img width="41%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=prabhakarharsh&layout=compact&card_width=320&bg_color=0d1117&title_color=91b2c7&text_color=91b2c7&hide_border=true" />
- <img width="60%" src="https://streak-stats.demolab.com?user=prabhakarharsh&theme=transparent&background=00000000&ring=91b2c7&fire=91b2c7&currStreakLabel=91b2c7&sideLabels=91b2c7&dates=91b2c7&currStreakNum=91b2c7&sideNums=91b2c7&stroke=91b2c7&hide_border=true" alt="GitHub Streak" />
-
+  <img
+  src="https://github-readme-streak-stats-eight.vercel.app?user=prabhakarharsh&theme=transparent&background=00000000&ring=91b2c7&fire=91b2c7&currStreakLabel=91b2c7&sideLabels=91b2c7&dates=91b2c7&currStreakNum=91b2c7&sideNums=91b2c7&stroke=91b2c7&hide_border=true"
+  width="100%"
+  alt="GitHub Streak"
+/>
 
 </div>
 <br/>
