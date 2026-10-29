@@ -155,7 +155,7 @@ Whether you're a fellow learner, a builder, or someone with an interesting probl
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/harsh_nintindo/">
+<a href="https://www.instagram.com/exe.harshx/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
